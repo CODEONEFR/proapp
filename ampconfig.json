@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.5",
+  "appInfo": {
+    "name": "Progressus Admin",
+    "description": "",
+    "version": "dbuzdwci",
+    "id": "cl2g5zr8e54740201s676e9iw6x",
+    "url": "https://app.amplication.com/cl2g5zr8e54740201s676e9iw6x",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2g5zr8e54740201s676e9iw6x",
+      "authProvider": "Jwt"
+    }
+  }
+}
